@@ -9,3 +9,17 @@
 .nav-link {
     color: #434455;
 }
+
+.hero section {
+    background-color: #fff;
+    /* TODO changes background color */
+}
+
+.hero-title {
+    color: #FFF;
+}
+
+.hero-button {
+    color: #FFF;
+    background: #4D5AE5;
+}
