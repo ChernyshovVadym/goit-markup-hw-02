@@ -10,7 +10,7 @@
     color: #434455;
 }
 
-.hero section {
+.hero-section {
     background-color: #fff;
     /* TODO changes background color */
 }
@@ -31,3 +31,7 @@
 .soft-skils-information {
     color: #434455;
 }
+
+
+
+color: var(--NAVY-BLUE, #2E2F42);
