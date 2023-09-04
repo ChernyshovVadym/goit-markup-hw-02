@@ -32,6 +32,14 @@
     color: #434455;
 }
 
+.our-team {
+    color: #2E2F42;
+}
 
+.employee-names {
+    color: var #2E2F42;
+}
 
-color: var(--NAVY-BLUE, #2E2F42);
+.job-title {
+    color: #434455;
+}
