@@ -4,8 +4,11 @@
 
 
 .logo {
+    font-family: Raleway;
+    text-decoration: none;
     color: blue
 }
+
 
 .nav-list {
     color: #2E2F42;
