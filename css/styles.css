@@ -93,44 +93,131 @@ button {
 
 /* Soft Skils section */
 .soft-skils {
-    color: #2E2F42;
+    color: var(--NAVY-BLUE, #2E2F42);
+    /* Header 3 */
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 120% */
+    letter-spacing: 0.4px;
 }
 
 .soft-skils-information {
-    color: #434455;
+    color: var(--SLATE, #434455);
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
 }
 
 /* Our team section */
 .our-team {
-    color: #2E2F42;
+    color: var(--NAVY-BLUE, #2E2F42);
+    text-align: center;
+    /* Header 2 */
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    /* 111.111% */
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
 }
 
 .employee-names {
-    color: var #2E2F42;
+    color: var(--NAVY-BLUE, #2E2F42);
+    text-align: center;
+    /* Header 3 */
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 120% */
+    letter-spacing: 0.4px;
 }
 
 .job-title {
-    color: #434455;
+    color: var(--SLATE, #434455);
+    text-align: center;
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
 }
 
 /* Our Portfolio section */
+
 .our-portfolio {
-    color: #2E2F42;
+    color: var(--NAVY-BLUE, #2E2F42);
+    text-align: center;
+    /* Header 2 */
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    /* 111.111% */
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
 }
 
 .Our-portfolio-options {
-    color: #2E2F42;
+    color: var(--NAVY-BLUE, #2E2F42);
+    /* Header 3 */
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 120% */
+    letter-spacing: 0.4px;
 }
 
 .Our-portfolio-occupation {
-    color: #434455;
+    color: var(--SLATE, #434455);
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
 }
 
+/* Footer */
 .footer-title {
-    color: #4D5AE5;
-    color: #F4F4FD;
+    color: var(--IRIS, #4D5AE5);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 }
 
 .footer-description {
-    color: #F4F4FD;
+    color: var(--CLOUD, #F4F4FD);
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
 }
