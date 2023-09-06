@@ -30,6 +30,7 @@ button {
 
 .accent-logo {
     color: var(--NAVY-BLUE, #2E2F42);
+    font-family: "Raleway", sans-serif
 }
 
 
