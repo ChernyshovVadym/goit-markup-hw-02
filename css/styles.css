@@ -18,22 +18,46 @@ button {
 }
 
 .logo {
+    color: var(--NAVY-BLUE, #2E2F42);
     font-family: Raleway;
-    text-decoration: none;
-    color: blue
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 }
 
 .accent-logo {
-    font-family: Raleway;
+    color: var(--NAVY-BLUE, #2E2F42);
 }
 
+
 .nav-list {
-    color: #2E2F42;
+    color: var(--NAVY-BLUE, #2E2F42);
+    /* Body Medium */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
 }
 
 .nav-link {
-    color: #434455;
+    color: var(--SLATE, #434455);
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
 }
+
 
 /* Hero section */
 .hero-section {
