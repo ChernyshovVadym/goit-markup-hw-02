@@ -18,8 +18,8 @@ button {
 
 .logo {
     color: var(--NAVY-BLUE, #2E2F42);
-    font-family: 'Raleway' sans-serif;
-    sans font-size: 18px;
+    font-family: Raleway;
+    font-size: 18px;
     font-style: normal;
     font-weight: 700;
     line-height: 21px;
