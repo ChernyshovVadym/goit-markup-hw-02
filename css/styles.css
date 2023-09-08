@@ -4,6 +4,7 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+/* Global */
 a {
     text-decoration: none;
 }
@@ -62,7 +63,7 @@ button {
 
 /* Hero section */
 .hero-section {
-    background-color: #fff;
+    background: var(--NAVY-BLUE, #2E2F42);
     /* TODO changes background color */
 }
 
