@@ -48,6 +48,7 @@ button {
     letter-spacing: 0.32px;
 }
 
+
 .nav-link {
     color: var(--SLATE, #434455);
     /* Body */
@@ -200,6 +201,11 @@ button {
 }
 
 /* Footer */
+
+.footer-section {
+    background: var(--NAVY-BLUE, #2E2F42);
+}
+
 .footer-title {
     color: var(--IRIS, #4D5AE5);
     font-family: Raleway;
