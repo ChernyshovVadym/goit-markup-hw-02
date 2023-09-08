@@ -76,7 +76,7 @@ button {
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     /* 107.143% */
     letter-spacing: 1.12px;
 }
@@ -84,6 +84,7 @@ button {
 
 .hero-button {
     color: var(--WHITE, #FFF);
+    background: var(--IRIS, #4D5AE5);
     /* Button Text */
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
