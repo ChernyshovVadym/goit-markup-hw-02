@@ -39,7 +39,7 @@ button {
 .nav-list {
     color: var(--NAVY-BLUE, #2E2F42);
     /* Body Medium */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -52,7 +52,7 @@ button {
 .nav-link {
     color: var(--SLATE, #434455);
     /* Body */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -72,7 +72,7 @@ button {
     color: var(--WHITE, #FFF);
     text-align: center;
     /* Header 1 */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
@@ -85,7 +85,7 @@ button {
 .hero-button {
     color: var(--WHITE, #FFF);
     /* Button Text */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -98,7 +98,7 @@ button {
 .soft-skils {
     color: var(--NAVY-BLUE, #2E2F42);
     /* Header 3 */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
@@ -110,7 +110,7 @@ button {
 .soft-skils-information {
     color: var(--SLATE, #434455);
     /* Body */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -124,7 +124,7 @@ button {
     color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
     /* Header 2 */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
@@ -138,7 +138,7 @@ button {
     color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
     /* Header 3 */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
@@ -151,7 +151,7 @@ button {
     color: var(--SLATE, #434455);
     text-align: center;
     /* Body */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -166,7 +166,7 @@ button {
     color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
     /* Header 2 */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
@@ -179,7 +179,7 @@ button {
 .Our-portfolio-options {
     color: var(--NAVY-BLUE, #2E2F42);
     /* Header 3 */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
@@ -191,7 +191,7 @@ button {
 .Our-portfolio-occupation {
     color: var(--SLATE, #434455);
     /* Body */
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -208,11 +208,11 @@ button {
 
 .footer-title {
     color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17;
     /* 116.667% */
     letter-spacing: 0.54px;
     text-transform: uppercase;
