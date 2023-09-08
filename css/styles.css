@@ -18,7 +18,7 @@ button {
 }
 
 .logo {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
@@ -36,7 +36,7 @@ button {
 }
 
 
-.nav-list {
+.nav-link {
     color: #2E2F42;
     /* Body Medium */
     font-family: 'Roboto', sans-serif;
@@ -48,9 +48,13 @@ button {
     letter-spacing: 0.32px;
 }
 
+.address {
+    font-style: normal;
+}
 
-.nav-link {
-    color: var(--SLATE, #434455);
+
+.contact-link {
+    color: #434455;
     /* Body */
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -64,12 +68,12 @@ button {
 
 /* Hero section */
 .hero-section {
-    background: var(--NAVY-BLUE, #2E2F42);
+    background: #2E2F42;
     /* TODO changes background color */
 }
 
 .hero-title {
-    color: var(--WHITE, #FFF);
+    color: var #FFF;
     text-align: center;
     /* Header 1 */
     font-family: 'Roboto', sans-serif;
@@ -83,8 +87,8 @@ button {
 
 
 .hero-button {
-    color: var(--WHITE, #FFF);
-    background: var(--IRIS, #4D5AE5);
+    color: #FFF;
+    background: #4D5AE5;
     /* Button Text */
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
