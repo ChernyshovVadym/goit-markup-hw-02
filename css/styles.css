@@ -71,6 +71,11 @@ button {
     letter-spacing: 0.32px;
 }
 
+.contact-link:hover,
+.contact-link:focus {
+    color: #404BBF;
+}
+
 
 /* Hero section */
 .hero-section {
