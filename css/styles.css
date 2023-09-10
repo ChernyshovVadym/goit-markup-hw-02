@@ -112,6 +112,12 @@ button {
     letter-spacing: 0.64px;
 }
 
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404BBF;
+}
+
+
 /* Soft Skils section */
 .soft-skils {
     color: #2E2F42;
