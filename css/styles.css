@@ -100,7 +100,7 @@ button {
 
 .hero-button {
     color: #FFF;
-    background: #404BBF;
+    background: #4D5AE5;
     cursor: pointer;
     /* Button Text */
     font-family: 'Roboto', sans-serif;
@@ -114,7 +114,7 @@ button {
 
 .hero-button:hover,
 .hero-button:focus {
-    background-color: #404BBF;
+    background-color: #4D5AE5;
 }
 
 
