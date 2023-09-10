@@ -48,6 +48,12 @@ button {
     letter-spacing: 0.32px;
 }
 
+.nav-link:hover,
+.nav-link:focus {
+    color: #404bbf;
+}
+
+
 .address {
     font-style: normal;
 }
