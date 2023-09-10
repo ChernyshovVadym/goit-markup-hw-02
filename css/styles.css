@@ -138,10 +138,14 @@ button {
 }
 
 /* Our team section */
+
+.color-section {
+    background-color: #F4F4FD;
+}
+
 .our-team {
     color: #2E2F42;
     text-align: center;
-    background-color: #F4F4FD;
     /* Header 2 */
     font-family: 'Roboto', sans-serif;
     font-size: 36px;
